@@ -3,7 +3,7 @@
     "id": "mdraw",
     "name": "mDraw",
     "author": "KiwiKing",
-    "description": "Native in-game VFX drawing service for PromeRotation ACRs.",
+    "description": "mDraw 是给 PromeRotation ACR 使用的 VFX 绘制服务",
     "version": "0.1.1",
     "tags": [
       "combat",
@@ -15,6 +15,6 @@
     "coverUrl": "",
     "sourceRepositoryUrl": "",
     "sponsorUrl": "",
-    "sha256": "a29c6efc256bb893ad28ba5dff74ef91c4d74727a5cb142435c34606522775a7"
+    "sha256": "6939d902c5f2027806ebafe55852b9d810ed6a7482f57378dc9b9020aa254daf"
   }
 ]
