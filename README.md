@@ -17,8 +17,7 @@ PromeRotation automatically filters out packages for the other API level.
 
 ## mDraw
 
-Current release: `0.1.1`
+Current release: `0.1.2`
 
 - API 15 reference PromeRotation: `1.5.4.9`
 - API 12 reference PromeRotation: `1.2.3.3`
-

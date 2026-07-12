@@ -3,18 +3,18 @@
     "id": "mdraw",
     "name": "mDraw",
     "author": "KiwiKing",
-    "description": "mDraw 是给 PromeRotation ACR 使用的 VFX 绘制服务",
-    "version": "0.1.1",
+    "description": "mDraw 是给 PromeRotation ACR 使用的 VFX 绘制服务。用 /mdraw test all 来测试插件是否安装成功",
+    "version": "0.1.2",
     "tags": [
       "combat",
       "development"
     ],
     "apiVersion": 15,
     "referencePromeVersion": "1.5.4.9",
-    "downloadUrl": "https://github.com/jujubui/kiwi-prome-feed/releases/download/mdraw-v0.1.1/mDraw-api15-v0.1.1.zip",
+    "downloadUrl": "https://github.com/jujubui/kiwi-prome-feed/releases/download/mdraw-v0.1.2/mDraw-api15-v0.1.2.zip",
     "coverUrl": "",
     "sourceRepositoryUrl": "",
     "sponsorUrl": "",
-    "sha256": "e5f58a781c3c286701f058821b969649c0c69a39226ac8eb919685b9e1641cd0"
+    "sha256": "2b736afd75cbd4ae392a49223cf3a7721c745e841b4d3e0793128a97423f3785"
   }
 ]
