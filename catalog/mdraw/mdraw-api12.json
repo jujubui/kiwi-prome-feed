@@ -1,0 +1,20 @@
+[
+  {
+    "id": "mdraw",
+    "name": "mDraw",
+    "author": "KiwiKing",
+    "description": "Native in-game VFX drawing service for PromeRotation ACRs.",
+    "version": "0.1.1",
+    "tags": [
+      "combat",
+      "development"
+    ],
+    "apiVersion": 12,
+    "referencePromeVersion": "1.2.3.3",
+    "downloadUrl": "https://github.com/jujubui/kiwi-prome-feed/releases/download/mdraw-v0.1.1/mDraw-api12-v0.1.1.zip",
+    "coverUrl": "",
+    "sourceRepositoryUrl": "",
+    "sponsorUrl": "",
+    "sha256": "a29c6efc256bb893ad28ba5dff74ef91c4d74727a5cb142435c34606522775a7"
+  }
+]
